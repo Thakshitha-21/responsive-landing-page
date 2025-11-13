@@ -1,6 +1,6 @@
 # TechSolutions - Responsive Landing Page
 
-A modern, fully responsive landing page built with HTML, CSS, and JavaScript for Week 1 task submission.
+ A modern, fully responsive landing page built with HTML, CSS, and JavaScript for Week 1 task submission.
 
 ## Features
 
